@@ -26,4 +26,7 @@ public class Akil {
     public void setNoron(Noron noron) {
         this.noron = noron;
     }
-}
+
+
+    }
+
